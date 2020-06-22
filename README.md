@@ -1,5 +1,5 @@
 # Facial-Expression-Recognition-using-Keras
-Built and trained a convolutional neural network (CNN) in Keras from scratch to recognize facial expressions and deployed the trained models onto a web interface using Flask.
+Built and trained a convolutional neural network (CNN) with 4 convolutional layers and 2 fully connected layers in Keras from scratch to recognize facial expressions in videos and deployed the trained models onto a web interface using Flask.
 
 The various tasks completed in this project include:<br>
 Task 1: Introduction and Overview<br>
